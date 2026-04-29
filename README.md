@@ -1,6 +1,6 @@
-# Intelligent Debugging Support Tool
+# Intelligent Python Debugging Support Tool
 
-An intelligent debugging support tool designed to help novice programmers better understand Python errors through simplified explanations.
+An intelligent Python debugging support tool designed to help novice programmers better understand Python errors through simplified explanations.
 
 ## Overview
 
