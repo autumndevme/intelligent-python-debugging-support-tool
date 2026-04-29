@@ -1,6 +1,6 @@
 # Intelligent Debugging Support Tool
 
-An intelligent debugging support tool designed to help novice programmers better understand Python errors through simplified explanations, adaptive feedback, and learning analytics.
+An intelligent debugging support tool designed to help novice programmers better understand Python errors through simplified explanations.
 
 ## Overview
 
@@ -99,10 +99,9 @@ http://127.0.0.1:5000/
 
 - How do students respond to debugging frustration?
 - Can simplified feedback improve persistence?
-- How does interface design affect programming confidence?
 
 ---
 
 ## Created By
 
-Mercy Odofin
+Mercy Balogun
